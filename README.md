@@ -15,6 +15,7 @@ The goals of this challenge are to:
 ### Resources
 
 File with code: **climate_challenge.ipynb**
+
 SQLite database: **hawaii.sqlite** under [Data](Data/) folder
 
 ### Findings
