@@ -4,7 +4,7 @@
 
 ### Objective
 
-The goals of this challenge are for you to:
+The goals of this challenge are to:
 
 - Determine key statistical data about the month of June.
 - Determine key statistical data about the month of December.
